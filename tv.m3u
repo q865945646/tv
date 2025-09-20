@@ -222,3 +222,8 @@ webview://https://padqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTE3NS40LjgyLjE4OSZ0ZXJ
 #EXTINF:-1 tvg-name="国际频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/国际频道.png" group-title="湖南",国际频道
 webview://https://padtx.qing.mgtv.com/nn_live/nn_x64/dWlwPTE3NS40LjgyLjE4OSZ0ZXJtPTQmcWlkPSZjZG5leF9pZD10eF9waG9uZV9saXZlJmNocz0mZGVmPTEmcz1iZGZhNDBhNTJkNDkyOWRlZGNkMDViMTIzNmMxNjM4NSZ1aWQ9JnV1aWQ9ZWI1YjhlODdhOTI1OGVmOGM1NjUzMjk0ZjE1MGYzN2YtYWYwNDUyYmQmdj0yJmFzPTAmZXM9MTc1ODQxMTExMg,,/HNGJMPP360.m3u8
 
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="测试",广东卫视
+https://wslizhi.gdtv.cn/live/gdws.m3u8?auth_key=1758387674-0-0-b70fb69982f02b7c82fbaaf89fe8a90f
+
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/卡酷少儿.png" group-title="测试",卡酷少儿
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1758385978&sign=2b784497799dd4c8f64e280727e74f53
