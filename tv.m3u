@@ -196,5 +196,6 @@ webview://https://yangshipin.cn/tv/home?pid=600190406
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="卫视",西藏卫视
 webview://https://yangshipin.cn/tv/home?pid=600190403
 
-#EXTINF:-1 tvg-name="电影" group-title="湖南",电影
+#EXTINF:-1 tvg-name="湖南电影" group-title="湖南",湖南电影
 webview://https://padqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTE3NS40LjgyLjE4OSZ0ZXJtPTQmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz1kNzkyNDAzNjFmYzQ4YTk5NDkyZDYxNzg4OTExNWIxMiZ1aWQ9JnV1aWQ9YTI2ZTlmZWUwZGQ0MDRlZDJmYzVhMGVmNmU3NTZmZTEtYWYwNDUyYmQmdj0yJmFzPTAmZXM9MTc1ODQwOTc1MQ,,/HNDYMPP360.m3u8
+
