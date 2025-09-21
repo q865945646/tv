@@ -255,3 +255,15 @@ webview://https://www.sztv.com.cn/dianshi.shtml?id=7881
 
 #EXTINF:-1 tvg-name="深圳电视剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳电视剧.png" group-title="测试",深圳电视剧
 webview://https://www.sztv.com.cn/dianshi.shtml?id=7880
+
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="测试",湖北卫视
+webview://https://news.hbtv.com.cn/app/tv/431
+
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="测试",河南卫视
+https://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=de0239a866da7345c7c53c82b79a6a91&wsTime=1758450616
+
+#EXTINF:-1 tvg-name="武术世界" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/武术世界.png" group-title="测试",武术世界
+https://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=2888e2a21ba41424242e035b43c8701f&wsTime=1758450616
+
+#EXTINF:-1 tvg-name="河南电视剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南电视剧.png" group-title="测试",河南电视剧
+https://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=7339b0d1fb31791d7da946866ccc73a3&wsTime=1758449716
