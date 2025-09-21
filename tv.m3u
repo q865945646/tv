@@ -227,4 +227,14 @@ webview://https://padtx.qing.mgtv.com/nn_live/nn_x64/dWlwPTExMy4yNDIuMjExLjIzNiZ
 webview://https://wslizhi.gdtv.cn/live/gdws.m3u8?auth_key=1758432030-0-0-0f70270d606536c1cce83b1acc1452f5
 
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/卡酷少儿.png" group-title="测试",卡酷少儿
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1758385978&sign=2b784497799dd4c8f64e280727e74f53
+webview://https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1758385978&sign=2b784497799dd4c8f64e280727e74f53
+
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="测试",北京卫视
+webview://https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1758432133&sign=13f0a6ac6b01f64758ad0d23299ead1c
+
+#EXTINF:-1 tvg-name="北京影视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京影视.png" group-title="测试",北京影视
+webview://https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1758432280&sign=ab56e1537a256eb841b53773a91c472b
+
+
+
+
