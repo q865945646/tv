@@ -223,9 +223,6 @@ https://padqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTExMy4yNDIuMjExLjIzNiZ0ZXJtPTQmc
 #EXTINF:-1 tvg-name="国际频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/国际频道.png" group-title="湖南",国际频道
 https://padtx.qing.mgtv.com/nn_live/nn_x64/dWlwPTExMy4yNDIuMjExLjIzNiZ0ZXJtPTQmcWlkPSZjZG5leF9pZD10eF9waG9uZV9saXZlJmNocz0mZGVmPTEmcz04MzI3MWQzODI3NWQ5N2QzMTEwOWYwNDNlZGYwNzkzMCZ1aWQ9JnV1aWQ9YzE0MzcyNTVlZWUyNTY5MWY1M2ZlOWY1MDNjMGI2ZWUtNzFmMmQzZWMmdj0yJmFzPTAmZXM9MTc1ODQ2MDU2MQ,,/HNGJMPP360.m3u8?ftc=&sftc=
 
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="测试",广东卫视
-https://wslizhi.gdtv.cn/live/gdws.m3u8?auth_key=1758432030-0-0-0f70270d606536c1cce83b1acc1452f5
-
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/卡酷少儿.png" group-title="测试",卡酷少儿
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1758385978&sign=2b784497799dd4c8f64e280727e74f53
 
@@ -234,15 +231,3 @@ https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=175
 
 #EXTINF:-1 tvg-name="北京影视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京影视.png" group-title="测试",北京影视
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1758432280&sign=ab56e1537a256eb841b53773a91c472b
-
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="测试",河南卫视
-https://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=de0239a866da7345c7c53c82b79a6a91&wsTime=1758450616
-
-#EXTINF:-1 tvg-name="武术世界" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/武术世界.png" group-title="测试",武术世界
-https://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=2888e2a21ba41424242e035b43c8701f&wsTime=1758450616
-
-#EXTINF:-1 tvg-name="河南电视剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南电视剧.png" group-title="测试",河南电视剧
-https://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=7339b0d1fb31791d7da946866ccc73a3&wsTime=1758449716
-
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="测试" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-6 电影
-https://mobileliveali-cdn.ysp.cctv.cn/ysp/9739DA0DEBCE72241A9161E1B60F40EA04BF73DADD23B5E512E5693573C48F6E4EF0818DD790E11F7E2EF4ED85DD222877B10A5B9D55CCA6BB72798C4897C4990D795B91E5CCCCDB7B74E07887F75F54B7BDBA32B8981171FBEAC9D87272F53A5D9EF3A40EE776F7D126EDB1D6CF1B85/2013693901_fhd.m3u8?svrtime=1758437805&pid=600108442&m3u8_with_time_tag=2&cdn=5205&revoi=&app_id=519748109&guid=mftc7gym_16o65fb6497&ysign=5fa1aab3aa7ab8602087dcae49d90f30&ytime=1758437805&ytype=1
