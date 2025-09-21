@@ -235,12 +235,6 @@ https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=175
 #EXTINF:-1 tvg-name="北京影视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京影视.png" group-title="测试",北京影视
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1758432280&sign=ab56e1537a256eb841b53773a91c472b
 
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="测试",浙江卫视
-https://zwebl02.cztv.com/live/channel011080Pnew.m3u8?auth_key=1758434479-6896bab2ade14f95b42518ec688017d9-0-1667d4070c6b7d8a0cda3dbe1f235fd1
-
-#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江少儿.png" group-title="测试",浙江少儿
-https://zwebl02.cztv.com/live/channel081080Pnew.m3u8?auth_key=1758434553-6896bab2ade14f95b42518ec688017d9-0-e157914819bbf63868419216cda81eda
-
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="测试",河南卫视
 https://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=de0239a866da7345c7c53c82b79a6a91&wsTime=1758450616
 
