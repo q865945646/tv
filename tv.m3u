@@ -267,3 +267,11 @@ https://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/play
 
 #EXTINF:-1 tvg-name="河南电视剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南电视剧.png" group-title="测试",河南电视剧
 https://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=7339b0d1fb31791d7da946866ccc73a3&wsTime=1758449716
+
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="测试" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-1 综合
+https://hlsliveali-cdn.ysp.cctv.cn/92511730E7833AA621AE23C6147017B53E7FAFC772AC253928A194D3072F27DA54ED1E7267FEE78E709EE507C7D67F5FB3F63A4C620C7CEDD40BC68729AD9684EF64203A34599E9D58E5A534202D70A4AD359EF3F20961DDDDCD1651CD69E89408C33CB2C3B0149E00FB0DCB87C16B42/2024078203_web.m3u8?from=player&svrtime=1758437394&pid=600001859&cdn=5506&revoi=&app_id=519748109&guid=mftc7gym_16o65fb6497&ysign=951f462c6ae816765b13f7ac85e610dd&ytime=1758437394&ytype=1
+
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="测试" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-2 财经
+https://hlslive-tx-cdn.ysp.cctv.cn/1F04903BB7263B0DBBA54F2A9DBCF79FA04EE07A2860C056AE6B64BC0D5A4A8C08AC75BE8247B88B15AE8270FDFD5D50DD1456711DDA7595B7CEF2F2C54F0FAFF157BEA3D99A7E5E8381A01E6944BEDE78E109276957A6F3E721F4B02C454055858AC52119ADE09AF42198A3F8F2E2AD/2024075403_web.m3u8?from=player&svrtime=1758437578&pid=600001800&cdn=5510&revoi=&app_id=519748109&guid=mftc7gym_16o65fb6497&ysign=8ffe163ec94a491889c5ba3851e433e0&ytime=1758437578&ytype=1
+
+
