@@ -235,6 +235,8 @@ webview://https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u
 #EXTINF:-1 tvg-name="北京影视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京影视.png" group-title="测试",北京影视
 webview://https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1758432280&sign=ab56e1537a256eb841b53773a91c472b
 
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="测试",江西卫视
+webview://https://www.jxntv.cn/live/#/jxtv1
 
-
-
+#EXTINF:-1 tvg-name="江西少儿" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/江西少儿.png" group-title="测试",江西少儿
+webview://https://www.jxntv.cn/live/#/jxtv6
