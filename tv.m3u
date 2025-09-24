@@ -195,39 +195,3 @@ webview://https://yangshipin.cn/tv/home?pid=600190406
 
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="卫视",西藏卫视
 webview://https://yangshipin.cn/tv/home?pid=600190403
-
-#EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南电影.png" group-title="湖南",湖南电影
-https://padtx.qing.mgtv.com/nn_live/nn_x64/dWlwPTExMy4yNDIuMjExLjIzNiZ0ZXJtPTQmcWlkPSZjZG5leF9pZD10eF9waG9uZV9saXZlJmNocz0mZGVmPTEmcz0xYjI1Yjg5YWYzYzgxM2YyZTIwMDJkMTUxZmRmYmY1YSZ1aWQ9JnV1aWQ9ZWI1NTkyOGNiZjQ5OWVjYjczNDk4YjVmYjkxYzg4ODQtNzFmMmQzZWMmdj0yJmFzPTAmZXM9MTc1ODQ0OTA1Nw,,/HNDYMPP360.m3u8?ftc=&sftc=
-
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="湖南",金鹰卡通
-https://padtx.qing.mgtv.com/nn_live/nn_x64/dWlwPTExMy4yNDIuMjExLjIzNiZ0ZXJtPTQmcWlkPSZjZG5leF9pZD10eF9waG9uZV9saXZlJmNocz0mZGVmPTEmcz1hMDBjZTc5NzZiOGFjZTlkODAwNDUwZGE5YWM0NGVhNyZ1aWQ9JnV1aWQ9ZWRkNTFiYzQ3MDVmM2QwMzZkNjAzZjEzYjk4YjhlZWQtNzFmMmQzZWMmdj0yJmFzPTAmZXM9MTc1ODQ0NzUxOA,,/JYKTMPP360.m3u8?ftc=&sftc=
-
-#EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南经视.png" group-title="湖南",湖南经视
-https://padtx.qing.mgtv.com/nn_live/nn_x64/dWlwPTExMy4yNDIuMjExLjIzNiZ0ZXJtPTQmcWlkPSZjZG5leF9pZD10eF9waG9uZV9saXZlJmNocz0mZGVmPTEmcz03YTk3OWNlYmJmOGQxOWM2OWU3M2VmNDQzMjFmMDQ3YyZ1aWQ9JnV1aWQ9OTVhYzc5N2VkMjAyMDljMDkzYjk4ZTVkZGMwNDYxNmMtNzFmMmQzZWMmdj0yJmFzPTAmZXM9MTc1ODQ0NjQ4MQ,,/HNJSMPP360.m3u8?ftc=&sftc=
-
-#EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南娱乐.png" group-title="湖南",湖南娱乐
-https://padtx.qing.mgtv.com/nn_live/nn_x64/dWlwPTExMy4yNDIuMjExLjIzNiZ0ZXJtPTQmcWlkPSZjZG5leF9pZD10eF9waG9uZV9saXZlJmNocz0mZGVmPTEmcz1kZjZmMDJjY2QxZGVmOTVjZTlhYjM3OGJlNjNiZjU5MyZ1aWQ9JnV1aWQ9NmI1MTgwMWE1ZDNhZWNhOWIyMzNjNmNlMGY2NGIxYWYtNzFmMmQzZWMmdj0yJmFzPTAmZXM9MTc1ODQ0NjY1OQ,,/HNYLMPP360.m3u8?ftc=&sftc=
-
-#EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南都市.png" group-title="湖南",湖南都市
-https://padtx.qing.mgtv.com/nn_live/nn_x64/dWlwPTExMy4yNDIuMjExLjIzNiZ0ZXJtPTQmcWlkPSZjZG5leF9pZD10eF9waG9uZV9saXZlJmNocz0mZGVmPTEmcz00NjJkMWQ5ZTg2NjY2YzI0ZWFhNDI3NWYzODNjY2ZmMSZ1aWQ9JnV1aWQ9ZjMwZDU4ZGMzYmEwNDlhMDQxYWU5NmM5YzliM2IyZjQtNzFmMmQzZWMmdj0yJmFzPTAmZXM9MTc1ODQ1ODkxNQ,,/HNDSMPP360.m3u8?ftc=&sftc=
-
-#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南电视剧.png" group-title="湖南",湖南电视剧
-https://padtx.qing.mgtv.com/nn_live/nn_x64/dWlwPTExMy4yNDIuMjExLjIzNiZ0ZXJtPTQmcWlkPSZjZG5leF9pZD10eF9waG9uZV9saXZlJmNocz0mZGVmPTEmcz03MDY4NTc1NmZmYjU4YjM3NDlkZDhhMDkwOThiYmUyOSZ1aWQ9JnV1aWQ9YWRjNjg4NjUzODI4ZjQ5NjJlZGIyZTkwY2IxYWMzYmUtNzFmMmQzZWMmdj0yJmFzPTAmZXM9MTc1ODQ1ODg3MA,,/HNDSJMPP360.m3u8?ftc=&sftc=
-
-#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰纪实.png" group-title="湖南",金鹰纪实
-https://padqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTExMy4yNDIuMjExLjIzNiZ0ZXJtPTQmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz0xMGU3NjMzMTlmMmI4MDE3NmY2NmI1MGY3NmI1NGY2NyZ1aWQ9JnV1aWQ9Yjg2ODJmYTUxYzBkMTBlZTliY2FkODJmNWNiYjAyZDItNzFmMmQzZWMmdj0yJmFzPTAmZXM9MTc1ODQ0OTkwNA,,/JYJSMPP360.m3u8?ftc=&sftc=
-
-#EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南爱晚.png" group-title="湖南",湖南爱晚
-https://padqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTExMy4yNDIuMjExLjIzNiZ0ZXJtPTQmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz00MjA1YTc0ZWJkMWU4NzAxYjdkYjI0ZWNlZDc5MTc5NyZ1aWQ9JnV1aWQ9YWJjZTU0NmNlYWU1YzdiZjA4NDI1N2QzYjliZWUxMTctNzFmMmQzZWMmdj0yJmFzPTAmZXM9MTc1ODQ1ODgyNw,,/HNGGMPP360.m3u8?ftc=&sftc=
-
-#EXTINF:-1 tvg-name="国际频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/国际频道.png" group-title="湖南",国际频道
-https://padtx.qing.mgtv.com/nn_live/nn_x64/dWlwPTExMy4yNDIuMjExLjIzNiZ0ZXJtPTQmcWlkPSZjZG5leF9pZD10eF9waG9uZV9saXZlJmNocz0mZGVmPTEmcz04MzI3MWQzODI3NWQ5N2QzMTEwOWYwNDNlZGYwNzkzMCZ1aWQ9JnV1aWQ9YzE0MzcyNTVlZWUyNTY5MWY1M2ZlOWY1MDNjMGI2ZWUtNzFmMmQzZWMmdj0yJmFzPTAmZXM9MTc1ODQ2MDU2MQ,,/HNGJMPP360.m3u8?ftc=&sftc=
-
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/卡酷少儿.png" group-title="测试",卡酷少儿
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1758385978&sign=2b784497799dd4c8f64e280727e74f53
-
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="测试",北京卫视
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1758432133&sign=13f0a6ac6b01f64758ad0d23299ead1c
-
-#EXTINF:-1 tvg-name="北京影视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京影视.png" group-title="测试",北京影视
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1758432280&sign=ab56e1537a256eb841b53773a91c472b
